@@ -1,5 +1,5 @@
-# Buildspace Domain name project Smart Contract 
+# Buildspace Domain Name project Smart Contract 
 
-Creating a domain name service on the matic network.
+Creating a smart contract for a Domain Name Service on the Matic Network
 
 Check out [buildspace](https://buildspace.so/)
